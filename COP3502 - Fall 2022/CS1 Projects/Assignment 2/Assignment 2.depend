@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663788365 source:c:\users\morto\desktop\assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1663785172 source:c:\users\morto\documents\code\c\cs1 - fall 2022\cs1 projects\assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
